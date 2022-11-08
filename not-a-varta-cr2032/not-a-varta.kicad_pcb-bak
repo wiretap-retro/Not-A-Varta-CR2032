@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "//192.168.1.100/Personal/Charlie/~Retro/~PCB's and Kits/Not-A-Varta/not-a-varta/gerbers/"))
+      (outputdirectory "//192.168.1.100/Personal/Charlie/~Retro/~PCB's and Kits/Not-A-Varta - CR2032/not-a-varta-cr2032/gerbers/"))
   )
 
   (net 0 "")
