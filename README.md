@@ -1,4 +1,4 @@
-# Not-A-Varta-CR2032
+# Not-A-Varta CR2032
 Similar to the "Not-A-Varta", but with a vertical CR2032 holder, and elongated mounting holes.
 
 ![pic](pic.png)
